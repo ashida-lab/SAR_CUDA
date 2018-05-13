@@ -1,0 +1,8 @@
+sampling freq 4.000000e+07
+band width 1.509300e+07
+range resolution 9.938382e+00
+wave length 2.352941e-01
+doppler band width 6.790208e+02
+azimuth resolution 1.163440e+01
+range bin 1024.000000
+azimuth hit 1024.000000
